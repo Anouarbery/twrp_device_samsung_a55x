@@ -5,7 +5,7 @@ For unofficial TWRP build release, go to [releases](https://github.com/Lyinceer/
 ## Clone Steps
 * Device Tree (Make sure you are in root directory of TWRP source.):
 ```
-git clone https://github.com/Lyinceer/twrp_device_samsung_a55x.git -b twrp-12.1 device/samsung/a55x
+git clone https://github.com/Lyinceer/twrp_device_samsung_a55x.git -b twrp-14.1 device/samsung/a55x
 ```
 * Build (Make sure you are in root directory of TWRP source.)
 ```
