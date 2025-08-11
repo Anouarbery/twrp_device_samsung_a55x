@@ -32,7 +32,7 @@ PRODUCT_PACKAGES += \
     fastbootd 
 
 PRODUCT_PACKAGES += \
-    bootctrl.erd8845
+    bootctrl.erd8855
 
 PRODUCT_PACKAGES += \
     otapreopt_script \
