@@ -1,5 +1,5 @@
-# TWRP Device tree for a55x
-## Samsung Galaxy A55 5G SM-A556E (a55x)
+# TWRP Device tree for a56x
+## Samsung Galaxy A56 5G SM-A566B (a56x)
 For unofficial TWRP build release, go to [releases](https://github.com/Lyinceer/Custom-Recovery-Builder/releases).
 
 ## Clone Steps
